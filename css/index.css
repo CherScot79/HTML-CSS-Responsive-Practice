@@ -1,0 +1,15 @@
+*{
+    display:flex;
+}
+h1, body{
+    background-color:#FBFFFB;
+}
+header{
+    flex-direction: row;
+    height:90vh;
+    background-image: url(/images/header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
